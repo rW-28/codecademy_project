@@ -17,7 +17,7 @@ Technologies Used
 - **JavaScript (ES6)** – interactivity and dynamic content
 
 Live Demo
-  [View on GitHub Pages]
+  [View on GitHub Pages](https://rw-28.github.io/codecademy_project/)
 
 Screenshots
 <img width="1902" height="891" alt="Снимок экрана 2025-11-07 182504" src="https://github.com/user-attachments/assets/b02015be-600c-4c61-825a-e7846bb7ec3a" />
