@@ -88,38 +88,6 @@ time, mark, audio, video {
   display: none;
 }
 
-/*@media (max-width: 425px) {
-  .header-nav, .logo {
-    display: none;
-  }
-  .header-nav-mobile {
-    display: flex;
-    justify-content: center;
-    gap: 15px;
-  }
-  .header-nav-mobile ul {
-      list-style: none;
-      display: flex;
-      align-items: center;
-      padding: 0;
-      margin: 0;
-    }
-    .header-nav-mobile li {
-    display: flex;
-    align-items: center;
-  }
-
-  .header-nav-mobile img {
-    width: 24px;
-    height: 24px;
-  }
-
-  .header-nav-mobile .nav-button {
-    margin-left: 15px;
-  }
-}
-*/
-
 @media (max-width: 768px) {
   .header-nav a {
     font-size: 15px;
